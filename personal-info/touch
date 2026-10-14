@@ -1,0 +1,29 @@
+    3  sudo su
+   63  sudo su
+  151  sudo su
+  233  sudo chmod -R u+rwx /Users/amankushwah/Downloads/Resources/
+  236  sudo chmod -R u+rwx /Users/amankushwah/Downloads/Resources/
+  328  sudo apt-get docker.io
+  329  sudo get docker.io
+  341  sudo apt-get update\nsudo apt-get install apt-transport-https ca-certificates gnupg curl -y\n
+  342  sudo apt-get update
+  788  sudo npm install -g git+https://github.com/eait-itig/node-triton#eait\n
+  789  sudo triton account get\n
+  800  sudo ssh s4878139@mango.eait.uq.edu.au\n
+  801  sudo ssh s4878139@mango.eait.uq.edu.au\n
+  910  sudo port install git
+  911  sudo port install git
+  912  sudo port install git
+  915  sudo port install git
+ 2170  sudo mv terraform /usr/local/bin/
+ 3270  sudo rm -rf Screenshot\ 2026-06-19\ at\ 2.33.05 pm.png
+ 3965  sudo ls
+ 4050  sudo installer -pkg ~/Downloads/gh_2.102.0_macOS_universal.pkg -target /
+ 4217  sudo
+ 4218  man sudo
+ 4267  sudo
+ 4364  sudo chown root contact.txt
+ 4367  sudo cat contact.txt
+ 4369  sudo chmod 600 contact.txt
+ 4372  sudo cat contact.txt
+ 4384  history | grep "sudo" > touch history.txt 
